@@ -4,17 +4,65 @@ project:
 
 website:
   title: "Yuhan's Data Portfolio"
+  description: "Data science, research, and statistical modeling"
+  favicon: assets/favicon.ico
+
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - text: "Skills"
+        menu:
+          - href: data-analysis.qmd
+            text: "Data Analysis"
+          - href: research.qmd
+            text: "Research"
+          - href: modeling.qmd
+            text: "Statistical Modeling"
+    right:
+      - icon: github
+        href: https://github.com/UhanWu
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://linkedin.com/in/wuyuhanm
+        aria-label: LinkedIn
+
+  page-footer:
+    center: |
+      © 2025 Yuhan · Built with [Quarto](https://quarto.org)
+
+  sidebar: false
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-title: "On this page"
+    code-fold: true
+    code-tools: true
+    code-copy: true
+    highlight-style: github
+    fig-align: center
+    number-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="author" content="Yuhan">
+
+execute:
+  echo: true
+  warning: false
+  message: false
+  freeze: auto
 
 editor: visual
 
