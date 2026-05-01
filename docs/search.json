@@ -7,10 +7,45 @@
     "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "modeling.html",
+    "href": "modeling.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "data-analysis.html",
+    "href": "data-analysis.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Yuhan-ActPort",
+    "title": "",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\nCode\n1 + 1\n\n\n[1] 2"
+    "text": "Code"
+  },
+  {
+    "objectID": "index.html#areas-of-work",
+    "href": "index.html#areas-of-work",
+    "title": "",
+    "section": "Areas of Work",
+    "text": "Areas of Work\n\n\n🧬 Biostatistics & Bioinformatics\nStatistical analysis of biological and clinical data. Projects span survival analysis, genomic data workflows, and epidemiological modeling — with an eye toward PhD-level research in computational biology or biostatistics.\n\n\n📐 Mathematical & Statistical Modeling\nFrom competition math modeling (HiMCM, MTFC) to R-based statistical testing and simulation. I enjoy building models that are both rigorous and interpretable.\n\n\n💼 Business Analytics & Case Studies\nQuantitative approaches to business problems — market analysis, risk modeling, and data-driven strategy. Relevant for actuarial, consulting, and analytics roles.\n\n\n🛠 Tools & Reproducible Research\nR, Python, Quarto, and Shiny for end-to-end reproducible analysis. I care about clean code, clear documentation, and results others can verify and build on.\n\n\n\nCurrently open to research opportunities, internships, and collaborations."
   }
 ]

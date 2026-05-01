@@ -1,11 +1,66 @@
 ---
-title: "Yuhan-ActPort"
+title: ""
+format:
+  html:
+    page-layout: full
 ---
 
-This is a Quarto website.
+:::: {.columns}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column width="65%"}
 
-```{r}
-1 + 1
-```
+# Hi, I'm Yuhan Wu — call me Max.
+
+I'm an undergraduate at **Emory University** (Class of 2028) interested in the intersection of data, biology, and decision-making. I work across statistical modeling, bioinformatics, and quantitative analysis — building toward careers in both research and industry.
+
+<br>
+
+[View Projects](projects.qmd){.btn .btn-outline-dark .btn-sm}
+[About Me](about.qmd){.btn .btn-outline-dark .btn-sm}
+[GitHub](https://github.com/UhanWu){.btn .btn-outline-dark .btn-sm}
+[LinkedIn](https://linkedin.com/in/wuyuhanm){.btn .btn-outline-dark .btn-sm}
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+
+![](assets/profile.JPG){.rounded-circle width="100%" style="max-width: 260px;"}
+
+:::
+
+::::
+
+---
+
+## Areas of Work
+
+::: {.grid}
+
+::: {.g-col-6}
+### 🧬 Biostatistics & Bioinformatics
+Statistical analysis of biological and clinical data. Projects span survival analysis, genomic data workflows, and epidemiological modeling — with an eye toward PhD-level research in computational biology or biostatistics.
+:::
+
+::: {.g-col-6}
+### 📐 Mathematical & Statistical Modeling
+From competition math modeling (HiMCM, MTFC) to R-based statistical testing and simulation. I enjoy building models that are both rigorous and interpretable.
+:::
+
+::: {.g-col-6}
+### 💼 Business Analytics & Case Studies
+Quantitative approaches to business problems — market analysis, risk modeling, and data-driven strategy. Relevant for actuarial, consulting, and analytics roles.
+:::
+
+::: {.g-col-6}
+### 🛠 Tools & Reproducible Research
+R, Python, Quarto, and Shiny for end-to-end reproducible analysis. I care about clean code, clear documentation, and results others can verify and build on.
+:::
+
+:::
+
+---
+
+*Currently open to research opportunities, internships, and collaborations.*
