@@ -29,11 +29,6 @@ open to industry roles in insurance, pharma, consulting, and data analytics.
 ::: {.column width="5%"}
 :::
 
-::: {.column width="25%"}
-
-![](assets/profile.jpg){.rounded-circle width="100%"}
-
-:::
 
 ::::
 
