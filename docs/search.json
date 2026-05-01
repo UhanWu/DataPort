@@ -18,7 +18,7 @@
     "href": "projects.html#anchors-against-food-deserts-gravity-model-of-atlantas-grocery-network",
     "title": "",
     "section": "Anchors Against Food Deserts: Gravity Model of Atlanta’s Grocery Network",
-    "text": "Anchors Against Food Deserts: Gravity Model of Atlanta’s Grocery Network\nInvest Atlanta · Emory Center for AI Learning · 2025\nWith Lorayne Gulbrandsen, Jessica (Jiayi) Wang, Alice Xu\nIdentified “hero stores” — grocery retailers most critical to preventing food deserts — using a gravity-weighted demand model across Atlanta tax parcels. Built for Invest Atlanta to support grant prioritization decisions.\nMethods: Gravity model with inverse-square distance decay, Gaussian kernel density estimation, capture rate normalization. Top hero store: Eat Right Atlanta – Emory Midtown (contribution score: 9,517).\nTools: Python · GeoPandas · Folium · contextily · NumPy · pandas · matplotlib\n\nDownload Poster"
+    "text": "Anchors Against Food Deserts: Gravity Model of Atlanta’s Grocery Network\nInvest Atlanta · Emory Center for AI Learning · 2025\nWith Lorayne Gulbrandsen, Jessica (Jiayi) Wang, Alice Xu\nIdentified “hero stores” — grocery retailers most critical to preventing food deserts — using a gravity-weighted demand model across Atlanta tax parcels. Built for Invest Atlanta to support grant prioritization decisions.\nMethods: Gravity model with inverse-square distance decay, Gaussian kernel density estimation, capture rate normalization. Top hero store: Eat Right Atlanta – Emory Midtown (contribution score: 9,517).\nTools: Python · GeoPandas · Folium · contextily · NumPy · pandas · matplotlib\n\n\n\nInvest Atlanta Poster\n\n\nDownload Poster"
   },
   {
     "objectID": "modeling.html",

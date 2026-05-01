@@ -13,9 +13,6 @@ estimation, capture rate normalization. Top hero store: Eat Right Atlanta – Em
 
 **Tools:** Python · GeoPandas · Folium · contextily · NumPy · pandas · matplotlib
 
-```{=html}
-<iframe src="assets/papers/Group2AIdatalab_Poster.pdf" width="100%" height="600px"
-style="border: 1px solid #ddd; border-radius: 4px;"></iframe>
-```
+[![Invest Atlanta Poster](assets/papers/invest-atlanta-poster.png){width="100%"}](assets/papers/Group2AIdatalab_Poster.pdf)
 
 [Download Poster](assets/papers/Group2AIdatalab_Poster.pdf){.btn .btn-outline-dark .btn-sm}
