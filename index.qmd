@@ -35,6 +35,14 @@ I'm an undergraduate at **Emory University** (Class of 2028) interested in the i
 
 ---
 
+## Recent Highlights
+
+- 📄 **Published** — Heritability of long-term complications in classic galactosemia. *Journal of Inherited Metabolic Disease*, 2026. [doi:10.1002/jimd.70181](https://doi.org/10.1002/jimd.70181)
+- 🏥 **Winship Cancer Institute** — Paper in progress on PDAC immunotherapy trial data
+- 🎓 **NIH SIBDS** — Selected for Summer Institute in Biostatistics & Data Science at Columbia Mailman (Summer 2026)
+- 🏆 **ASA DataFest @ Emory** — Judges' Choice Award (2026)
+- 📊 **SOA Exam P** — Passed · FM in preparation
+
 ## Areas of Work
 
 ::: {.grid}

@@ -2,9 +2,51 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "",
     "section": "",
-    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2"
+    "text": "Code"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "",
+    "section": "Education",
+    "text": "Education\nEmory University — Atlanta, GA (Aug 2024 – May 2028)\nB.S. Applied Mathematics & Statistics · B.A. Economics\nGPA: 3.96/4.00 · SAT: 1540\nRelevant Coursework\nData Science & Computing: Statistical Computing I (R), Statistical Computing II (Python), Regression Analysis, Scientific Computing (Python), Intro to Computer Science (Java)\nMathematics: Mathematical Statistics, Linear Algebra, Multivariable Calculus, Numerical Analysis (MATLAB), Differential Equations, Foundations of Mathematics (Proofs)\nBiomedical: Foundations of Modern Biology, Chemistry: Structure and Properties"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "",
+    "section": "Experience",
+    "text": "Experience\n\nResearch\nUndergraduate Research Assistant · Winship Cancer Institute, Emory University (Jan 2026 – Present)\nAnalyzing longitudinal survival and clinical trial data from 35 PDAC patients (77 samples) across a Phase 1b immunotherapy trial. Integrated 71 cytokine/growth factor biomarkers with clinical outcomes, profiled immune cell composition using CyTOF/mIHC, and conducted multi-omic analyses linking CHIP mutations to immune suppression phenotypes. Co-first author paper in progress.\nUndergraduate Research Assistant · Emory University School of Medicine (Sep 2024 – Present)\nTranslational research in Dr. Fridovich-Keil’s lab on classic galactosemia. Modeled longitudinal and cross-sectional clinical data from 500+ patients in R using LMMs and MMRMs. Published in Journal of Inherited Metabolic Disease (2026).\nResearch Trainee (SIBDS) · Columbia University Mailman School of Public Health (May – Jul 2026)\nSelected for NIH-funded Summer Institute in Biostatistics and Data Science. Conducted mentored research in statistical modeling with reproducible workflows for biomedical data analysis.\n\n\nIndustry & Applied\nData Analyst · Invest Atlanta (Feb 2026 – May 2026)\nGeospatial and demographic analysis evaluating fresh food access across Atlanta neighborhoods. Developed gravity-weighted demand model to identify underserved areas and priority grant recipients.\nMedical Research Intern · Berkeley Pharma Tech, Remote (Aug 2025 – Jan 2026)\nLed a 4-member cross-university team on neuromodulation treatments for treatment-resistant depression. Authored core manuscript sections and directed submission per AMA citation standards.\nAI Trainer · Handshake AI, Remote (Jul – Aug 2025)\nDesigned and stress-tested domain-specific prompts to benchmark LLM performance in biomedical research tasks. Assessed model outputs for scientific accuracy and technical depth."
+  },
+  {
+    "objectID": "about.html#publications-presentations",
+    "href": "about.html#publications-presentations",
+    "title": "",
+    "section": "Publications & Presentations",
+    "text": "Publications & Presentations\nGarrett, O. S., Smith, N. H., Cutler, D. J., Wu, Y., … & Fridovich-Keil, J. L. (2026). Heritability of long-term complications in classic galactosemia. Journal of Inherited Metabolic Disease, 49(3), e70181. doi:10.1002/jimd.70181\n\nPrenatal paper (&gt;5 authorship) with Fridovich-Keil Lab — in preparation\nPDAC immunotherapy trial paper, Woo Lab — co-first author, in preparation\nPresented at the 2023 Joint Mathematics Meeting, Boston, MA"
+  },
+  {
+    "objectID": "about.html#awards-honors",
+    "href": "about.html#awards-honors",
+    "title": "",
+    "section": "Awards & Honors",
+    "text": "Awards & Honors\n\n\n\n\n\n\n\nAward\nYear\n\n\n\n\nSOA Exam P (Probability) — Passed\nSep 2025\n\n\nSOA Exam FM (Financial Mathematics) — In Preparation\n2026\n\n\nASA DataFest @ Emory — Judges’ Choice Award\n2026\n\n\nHiMCM Finalist (Top 63/967), COMAP\n2023\n\n\nHiMCM Meritorious, COMAP\n2021\n\n\nIMMC USA Regional Finalist, COMAP\n2022, 2024\n\n\nModeling the Future Challenge — NE Regional #1, National Finalist\n2023, 2024"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "",
+    "section": "Skills",
+    "text": "Skills\nProgramming: R (5 yrs) · Python (4 yrs) · MATLAB · SQL · Java · LaTeX\nPlatforms: Git/GitHub · VS Code · Jupyter · ArcGIS · Anaconda · MySQL\nLanguages: English (Bilingual) · Mandarin Chinese (Bilingual) · Spanish · German\nInterests: Swimming · Astrophotography · Piano"
+  },
+  {
+    "objectID": "about.html#organizations",
+    "href": "about.html#organizations",
+    "title": "",
+    "section": "Organizations",
+    "text": "Organizations\n\nEmory Economics Review — Managing Editor\nEmory Residential Hall Association — Secretary\nNewton North Math Modeling Club — Co-founder"
   },
   {
     "objectID": "projects.html",
@@ -47,6 +89,13 @@
     "title": "",
     "section": "",
     "text": "Code"
+  },
+  {
+    "objectID": "index.html#recent-highlights",
+    "href": "index.html#recent-highlights",
+    "title": "",
+    "section": "Recent Highlights",
+    "text": "Recent Highlights\n\n📄 Published — Heritability of long-term complications in classic galactosemia. Journal of Inherited Metabolic Disease, 2026. doi:10.1002/jimd.70181\n🏥 Winship Cancer Institute — Paper in progress on PDAC immunotherapy trial data\n🎓 NIH SIBDS — Selected for Summer Institute in Biostatistics & Data Science at Columbia Mailman (Summer 2026)\n🏆 ASA DataFest @ Emory — Judges’ Choice Award (2026)\n📊 SOA Exam P — Passed · FM in preparation"
   },
   {
     "objectID": "index.html#areas-of-work",

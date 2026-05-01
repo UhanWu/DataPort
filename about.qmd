@@ -1,9 +1,140 @@
 ---
-title: "About"
+title: ""
+format:
+  html:
+    page-layout: full
 ---
 
-About this site
+:::: {.columns}
 
-```{r}
-1 + 1
-```
+::: {.column width="70%"}
+
+# Yuhan (Max) Wu
+
+Undergraduate at **Emory University** (Class of 2028) studying Applied Mathematics & Statistics
+and Economics. I work at the intersection of biostatistics, data science, and quantitative
+analysis — with active research in cancer immunology and metabolic disease, and applied work
+in public health analytics.
+
+I'm building toward graduate study in biostatistics or computational biology, while staying
+open to industry roles in insurance, pharma, consulting, and data analytics.
+
+[yuhan.wu@emory.edu](mailto:yuhan.wu@emory.edu) · 
+[LinkedIn](https://linkedin.com/in/wuyuhanm) · 
+[GitHub](https://github.com/UhanWu) ·
+[Download CV](assets/YWu_CV.pdf){.btn .btn-outline-dark .btn-sm}
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="25%"}
+
+![](assets/profile.jpg){.rounded-circle width="100%"}
+
+:::
+
+::::
+
+---
+
+## Education
+
+**Emory University** — Atlanta, GA *(Aug 2024 – May 2028)*  
+B.S. Applied Mathematics & Statistics · B.A. Economics  
+GPA: 3.96/4.00 · SAT: 1540
+
+**Relevant Coursework**
+
+*Data Science & Computing:* Statistical Computing I (R), Statistical Computing II (Python),
+Regression Analysis, Scientific Computing (Python), Intro to Computer Science (Java)
+
+*Mathematics:* Mathematical Statistics, Linear Algebra, Multivariable Calculus, Numerical
+Analysis (MATLAB), Differential Equations, Foundations of Mathematics (Proofs)
+
+*Biomedical:* Foundations of Modern Biology, Chemistry: Structure and Properties
+
+---
+
+## Experience
+
+### Research
+
+**Undergraduate Research Assistant** · Winship Cancer Institute, Emory University *(Jan 2026 – Present)*  
+Analyzing longitudinal survival and clinical trial data from 35 PDAC patients (77 samples) across
+a Phase 1b immunotherapy trial. Integrated 71 cytokine/growth factor biomarkers with clinical
+outcomes, profiled immune cell composition using CyTOF/mIHC, and conducted multi-omic analyses
+linking CHIP mutations to immune suppression phenotypes. Co-first author paper in progress.
+
+**Undergraduate Research Assistant** · Emory University School of Medicine *(Sep 2024 – Present)*  
+Translational research in Dr. Fridovich-Keil's lab on classic galactosemia. Modeled longitudinal
+and cross-sectional clinical data from 500+ patients in R using LMMs and MMRMs. Published in
+*Journal of Inherited Metabolic Disease* (2026).
+
+**Research Trainee (SIBDS)** · Columbia University Mailman School of Public Health *(May – Jul 2026)*  
+Selected for NIH-funded Summer Institute in Biostatistics and Data Science. Conducted mentored
+research in statistical modeling with reproducible workflows for biomedical data analysis.
+
+
+### Industry & Applied
+
+**Data Analyst** · Invest Atlanta *(Feb 2026 – May 2026)*  
+Geospatial and demographic analysis evaluating fresh food access across Atlanta neighborhoods.
+Developed gravity-weighted demand model to identify underserved areas and priority grant recipients.
+
+**Medical Research Intern** · Berkeley Pharma Tech, Remote *(Aug 2025 – Jan 2026)*  
+Led a 4-member cross-university team on neuromodulation treatments for treatment-resistant
+depression. Authored core manuscript sections and directed submission per AMA citation standards.
+
+**AI Trainer** · Handshake AI, Remote *(Jul – Aug 2025)*  
+Designed and stress-tested domain-specific prompts to benchmark LLM performance in biomedical
+research tasks. Assessed model outputs for scientific accuracy and technical depth.
+
+
+
+---
+
+## Publications & Presentations
+
+Garrett, O. S., Smith, N. H., Cutler, D. J., **Wu, Y.**, … & Fridovich-Keil, J. L. (2026).
+Heritability of long-term complications in classic galactosemia. *Journal of Inherited Metabolic
+Disease*, 49(3), e70181. [doi:10.1002/jimd.70181](https://doi.org/10.1002/jimd.70181)
+
+- Prenatal paper (>5 authorship) with Fridovich-Keil Lab — *in preparation*
+- PDAC immunotherapy trial paper, Woo Lab — *co-first author, in preparation*
+- Presented at the **2023 Joint Mathematics Meeting**, Boston, MA
+
+---
+
+## Awards & Honors
+
+| Award | Year |
+|---|---|
+| SOA Exam P (Probability) — Passed | Sep 2025 |
+| SOA Exam FM (Financial Mathematics) — In Preparation | 2026 |
+| ASA DataFest @ Emory — Judges' Choice Award | 2026 |
+| HiMCM Finalist (Top 63/967), COMAP | 2023 |
+| HiMCM Meritorious, COMAP | 2021 |
+| IMMC USA Regional Finalist, COMAP | 2022, 2024 |
+| Modeling the Future Challenge — NE Regional #1, National Finalist | 2023, 2024 |
+
+---
+
+## Skills
+
+**Programming:** R (5 yrs) · Python (4 yrs) · MATLAB · SQL · Java · LaTeX
+
+**Platforms:** Git/GitHub · VS Code · Jupyter · ArcGIS · Anaconda · MySQL
+
+**Languages:** English (Bilingual) · Mandarin Chinese (Bilingual) · Spanish · German
+
+**Interests:** Swimming · Astrophotography · Piano
+
+---
+
+## Organizations
+
+- **Emory Economics Review** — Managing Editor
+- **Emory Residential Hall Association** — Secretary
+- **Newton North Math Modeling Club** — Co-founder
