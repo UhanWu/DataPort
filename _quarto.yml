@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Yuhan-ActPort"
+  title: "Yuhan's Data Portfolio"
   navbar:
     left:
       - href: index.qmd
