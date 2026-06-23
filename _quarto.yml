@@ -15,14 +15,14 @@ website:
         text: About
       - href: projects.qmd
         text: Projects
-      - text: "Skills"
-        menu:
-          - href: data-analysis.qmd
-            text: "Data Analysis"
-          - href: research.qmd
-            text: "Research"
-          - href: modeling.qmd
-            text: "Statistical Modeling"
+      # - text: "Skills"
+      #   menu:
+      #     - href: data-analysis.qmd
+      #       text: "Data Analysis"
+      #     - href: research.qmd
+      #       text: "Research"
+      #     - href: modeling.qmd
+      #       text: "Statistical Modeling"
     right:
       - icon: github
         href: https://github.com/UhanWu
