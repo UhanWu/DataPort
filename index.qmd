@@ -101,10 +101,13 @@ clear documentation, and results others can verify and build on.
 an R Shiny app with a full UI for data ingestion, transformation (pivot, aggregate, reshape), 
 11 statistical tests (normality, t-tests, ANOVA, Wilcoxon, chi-square, Fisher's exact), 
 and 6 `ggplot2` visualization types with reproducible code output.
-:::
 
+[`autopairtest`](https://github.com/UhanWu/autopairtest) —
+an R package for automatic pairwise statistical testing, selecting Welch t-test vs. Wilcoxon
+rank-sum and chi-square vs. Fisher's exact based on data properties. Includes roxygen2
+documentation, a testthat suite, and a pkgdown site.
 :::
-
+:::
 ---
 
 *Currently open to research opportunities, internships, and collaborations.*
